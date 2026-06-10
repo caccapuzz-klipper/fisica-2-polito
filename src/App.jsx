@@ -2040,6 +2040,8 @@ correctAnswer: 2
 }
 ];
 
+const SCAVINO_QUESTIONS = [];
+
 const URBETALLI_QUESTIONS = [
   {
     "id": "u1",
