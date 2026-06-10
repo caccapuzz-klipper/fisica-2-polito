@@ -6,7 +6,7 @@ import {
 
 // --- I TUOI DATABASE DELLE DOMANDE ---
 
-const descrovi_QUESTIONS = [
+const ROSALBINO_QUESTIONS = [
 {
     id: 1,
     text: "In un dielettrico attraversato da un’onda elettromagnetica piana e monocromatica, il valore istantaneo del vettore polarizzazione P:",
